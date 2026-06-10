@@ -1,0 +1,6 @@
+{
+  "name": "Girlfriend Proposal",
+  "description": "An ultra-premium, interactive proposal web experience with cinematic animations and a memory dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
